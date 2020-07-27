@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+### It's me
+
+### Angle OldPig
+
+### I wanna write some great code
+
+### Make the world a better place
 
 <!--
 **AngleOldPig/AngleOldPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
