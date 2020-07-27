@@ -20,6 +20,26 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AngleOldPig&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+# 📊 Weekly development time
+
+<br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+
+# 🎮 Steam playtime
+
+<br />
+
+<!-- steam-box start -->
+ <!-- steam-box end -->
+
+<br />
+
 <!--
 **AngleOldPig/AngleOldPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
