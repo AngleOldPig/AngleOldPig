@@ -1,12 +1,16 @@
 ### Hi there 👋 
 
-### It's me
+### It's me.
 
 ### Angle OldPig
 
-### I wanna write some great code
+### I wanna write some great code.
 
-### Make the world a better place
+### Make the world a better place.
+
+### [My blog](https://angleop.club/) will be update weekly. (MAYBE)
+
+### I'll share my knowledge in [my learning notes](https://github.com/AngleOldPig/ZangZang-s-Coding-Course). 
 
 <!--
 **AngleOldPig/AngleOldPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
