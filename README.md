@@ -12,7 +12,12 @@
 
 ### I'll share my knowledge in [my learning notes](https://github.com/AngleOldPig/ZangZang-s-Coding-Course). 
 
+<br />
+
+<br />
+
 ### Github 
+----------
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AngleOldPig&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
