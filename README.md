@@ -16,13 +16,13 @@
 
 <br />
 
-# Github 
+# Github 现状
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AngleOldPig&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-# 📊 Weekly development time
+# 📊 每周撸码时间
 
 <br />
 
@@ -36,7 +36,7 @@
 
 <br />
 
-# 🎮 Steam playtime
+# 🎮 Steam 游戏时间
 
 <br />
 
@@ -47,6 +47,18 @@
 
 
 <!-- steam-box end -->
+
+<br />
+
+# 💬 心愿单
+<br />
+
+- [x] 《疯狂Java讲义》第五版
+- [x] 《SQL必知必会》第四版
+- [ ] Bruno电煎锅
+- [ ] Macbook Air 2020
+- [ ] 《剑指Offer》第二版
+- [ ] Fuji X100
 
 <br />
 
