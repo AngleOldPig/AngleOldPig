@@ -27,7 +27,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-
+<figure><embed src="https://wakatime.com/share/@OldPig/ef57ea75-e37c-49e7-924e-b602ea4066c2.svg"></embed></figure>
 
 
 
