@@ -26,8 +26,10 @@
 
 <br />
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@OldPig/237745a1-185f-4688-a8f7-88478408b5a6.png" height=360px width=420px /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@OldPig/f80a52fd-9f0a-40af-95b8-3833c29fe54e.png" height=370px width=500px /></a>
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@OldPig/ef57ea75-e37c-49e7-924e-b602ea4066c2.svg"></embed></figure>
+
 
 
 
@@ -35,8 +37,6 @@
 <!--END_SECTION:waka-->
 
 <br />
-
-# 🎮 Steam 游戏时间
 
 <br />
 
